@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache & compiled bytecode
+__pycache__/
+*.py[cod]
+
+# Local databases & logs
+*.db
+*.sqlite3
+*.log
+
+# macOS system files
+.DS_Store
